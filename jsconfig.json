@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "vue": ["./node_modules/vue/dist/vue.esm-browser.prod.js"],
+      "@vue/devtools-api": ["./node_modules/@vue/devtools-api/lib/esm/index.js"],
+      "vue-router": ["./node_modules/vue-router/dist/vue-router.esm-browser.js"],
+      "bootstrap5": ["./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"]
+    }
+  }
+}

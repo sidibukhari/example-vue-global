@@ -1,0 +1,16 @@
+{
+  "name": "example-vue-global",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@vue/devtools-api": "^6.5.1",
+    "bootstrap": "^5.3.2",
+    "vue": "^3.4.6",
+    "vue-router": "^4.2.5"
+  }
+}
